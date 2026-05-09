@@ -32,4 +32,4 @@ Research and innovation
 Teamwork and presentation skills
 Problem analysis and solution design
 
-**This achievement motivates me to continue building impactful AI solutions that can make a real difference in people’s lives.
+This achievement motivates me to continue building impactful AI solutions that can make a real difference in people’s lives.
